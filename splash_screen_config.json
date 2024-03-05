@@ -1,0 +1,7 @@
+{
+  "image": "app/src/main/res/drawable/moon.png",
+  "color": "#42a5f5",
+  "android": {
+    "adaptive_icon_background": "#42a5f5"
+  }
+}
